@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200">
+  <!-- シンプルな盾の形状 -->
+  <path d="M100 10 L170 40 L170 100 C170 140, 140 170, 100 190 C60 170, 30 140, 30 100 L30 40 Z" fill="none" stroke="#115555" stroke-width="12" />
+  
+  <!-- 波括弧 -->
+  <path d="M65 53 C57.3 53, 53.6 60.6, 53.6 67.3 L53.6 87.3 C53.6 95.3, 49.6 99.3, 43.6 99.3 C49.6 99.3, 53.6 103.3, 53.6 111.3 L53.6 131.3 C53.6 138, 57.3 146.3, 65 146.3" fill="none" stroke="#4488aa" stroke-width="8" stroke-linecap="round" />
+  <path d="M135 53 C142.7 53, 146.4 60.6, 146.4 67.3 L146.4 87.3 C146.4 95.3, 150.4 99.3, 156.4 99.3 C150.4 99.3, 146.4 103.3, 146.4 111.3 L146.4 131.3 C146.4 138, 142.7 146.3, 135 146.3" fill="none" stroke="#4488aa" stroke-width="8" stroke-linecap="round" />
+  
+  <!-- 右上向きの矢印 -->
+  <path d="M76.75 128.25 L123.25 81.75" fill="none" stroke="#115555" stroke-width="8.55" stroke-linecap="round" />
+  <path d="M100 81.75 L123.25 81.75 L123.25 105" fill="none" stroke="#115555" stroke-width="8" stroke-linecap="round" stroke-linejoin="round" />
+</svg>
