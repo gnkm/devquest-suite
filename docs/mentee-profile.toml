@@ -1,22 +1,22 @@
 # 目的: メンティーの現在地・目標・進捗を構造化して記録する
 
 # --- 基本情報 -------------------------------------------------------------
-github = "gnkm"          # GitHub アカウント
-join_date = 2025-04-20   # YYYY-MM-DD
-current_level = "junior" # enum: beginner / junior / intermediate / senior
+name = "gnkm"
+current_level = "junior"                    # enum: beginner / junior / intermediate / senior
+primary_goal = "生成AIを活用できる一流ソフトウェアエンジニアになる"
 
 # --- スキルメトリクス -----------------------------------------------------
 [skills]
 # 1‑10 scale (1: 未経験, 10: 熟練)
-python = 0          # 言語イディオム・標準ライブラリ
-algorithms = 0      # データ構造・計算量意識
-testing = 0         # TDD・ユニット/統合テスト設計
-software_design = 0 # SOLID・クリーンアーキテクチャ
-devops = 0          # Docker・環境構築
-ci_cd = 0           # GitHub Actions・自動化
-ai_prompting = 0    # プロンプト設計・AI 出力評価
-code_review = 0     # PR レビュー・設計批評
-soft_skills = 0     # コミュニケーション・タイムマネジメント
+python = 1          # 言語イディオム・標準ライブラリ
+algorithms = 1      # データ構造・計算量意識
+testing = 1         # TDD・ユニット/統合テスト設計
+software_design = 1 # SOLID・クリーンアーキテクチャ
+devops = 1          # Docker・環境構築
+ci_cd = 1           # GitHub Actions・自動化
+ai_prompting = 1    # プロンプト設計・AI 出力評価
+code_review = 1     # PR レビュー・設計批評
+soft_skills = 1     # コミュニケーション・タイムマネジメント
 
 # --- SMART ゴール ----------------------------------------------------------
 # タグ付き多重テーブル [[goals]]
